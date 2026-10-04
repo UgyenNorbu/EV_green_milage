@@ -1,0 +1,17 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data
+*.csv
+
+# Deployment
+rsconnect/
+
+# Secrets
+.Renviron
+
+# macOS
+.DS_Store
